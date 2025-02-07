@@ -4,7 +4,7 @@ This Discord bot can handle this server: [Discord Server](https://discord.gg/HX8
 The server contains multiple rooms where the bot posts current stock prices and charts.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100" />
 </p>
 
 ## How to Start It
